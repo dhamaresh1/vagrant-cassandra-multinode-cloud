@@ -1,4 +1,4 @@
-# DigitalOcean Cassandra Multi-Node Vagrantfile
+# DigitalOcean Cassandra Multi Node using Vagrant
 
 ## Deploy
 * Fill out VAGRANT_TOKEN in Vagrantfile with your Digital Ocean API key
